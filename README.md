@@ -1,16 +1,14 @@
 ### Hi there 👋
+<img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
-<!--
-**antonio-salviato/antonio-salviato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```diff
+Oi, Eu sou o Antonio Salviato :D
+@@Estudante de Desenvolvimento WEb Full Stack - Growdev@@
++ Moro no Espírito Santo, Brasil +
+- 37 anos -
+! Em aprendizado de HTML, CSS e JavaScript !
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+------
+[/antonio-salviato](https://github.com/antonio-salviato) | <a href="www.gowdev.com.br">Growdev</a>
