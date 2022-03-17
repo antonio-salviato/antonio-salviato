@@ -3,9 +3,9 @@
 
 ```diff
 Oi, Eu sou o Antonio Salviato :D
+Gosto de séries, viajar e cursos
 @@Estudante de Desenvolvimento WEb Full Stack - Growdev@@
-+ Moro no Espírito Santo, Brasil +
-- 37 anos -
++ Sou Farmacêutico, porém estou migrando para a área da TI+
 ! Em aprendizado de HTML, CSS e JavaScript !
 
 
